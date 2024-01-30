@@ -1,0 +1,103 @@
+{
+    "bapcou":[
+        {
+            "idx":0,
+            "category":"양식",
+            "title":"시우식당",
+            "eventType":"오후 식사 이벤트(17:00~)",
+            "image":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjBfMjgg%2FMDAxNjYzNjg1MTY1MzUw.Nlgvr91c97lR0C0v52UYEKYbSxtOHsFUr8CC2vGvufwg.0SXF0C5x_ipXAImN5aCppn_zv78D0Q-xVEIOVB4GkYMg.JPEG.2mingkze%2Foutput_3233720032.jpg&type=a340",
+            "desc":"1만원 이상 주문시 1000원 할인",
+            "cnt":7,
+            "date":"2023.05.30",
+            "couponpassword":"12"
+        },
+        {
+            "idx":1,
+            "category":"디저트",
+            "title":"오버트 서울",
+            "eventType":"쿠폰 이벤트",
+            "image":"https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220726_215%2F1658829839188QGwAU_JPEG%2FFCE94AEA-D21B-4AD2-996D-8AD0CFBD40AA.jpeg",
+            "desc":"음료 테이크 아웃 1,000원 할인",
+            "cnt":5,
+            "date":"2023.05.31",
+            "couponpassword":"17"
+        },
+        {
+            "idx":2,
+            "category":"한식",
+            "title":"김밥이야기",
+            "eventType":"오후 식사 이벤트(17:00~)",
+            "image":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAzMTZfMTk1%2FMDAxNjc4OTcyMTEzMjIz.ubu_3tY634LzJ3osy9rwAfvdHoSW_Brhj9nzG0v-fusg.eDyDbH0xrcA1ITz8k812GmJ1SppRnSJyL2bkjxajFlkg.JPEG.botong18%2FIMG_7441.JPG&type=a340",
+            "desc":"평일 오후 1만원 이상 주문시 2000원 할인",
+            "cnt":5,
+            "date":"2020.05.30",
+            "couponpassword":19
+        },
+        {
+            "idx":3,
+            "category":"한식",
+            "title":"동혁이네",
+            "eventType":"오후 식사 이벤트(17:00~)",
+            "image":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMjdfMTgy%2FMDAxNjE2ODUxNTEyODc4.qjtH5ZWmvdomr_pYSrp3wOOTIXyRMTccO4-5zIKWsesg.GW73zxUFiPtERPmVJ5WV9GnhLgN4dn2YWc6gqiX6nl4g.JPEG.dumjigi1%2F1613566597187.jpg&type=sc960_832",
+            "desc":"1만원 이상 주문시 1000원 할인",
+            "cnt":5,
+            "date":"2023.06.30",
+            "couponpassword":125
+        },
+        {
+            "idx":4,
+            "category":"디저트",
+            "title":"빵나무",
+            "eventType":"쿠폰 이벤트",
+            "image":"https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191105_179%2F1572939283840LEGXO_JPEG%2Fimage.jpg",
+            "desc":"음료 3잔 이상 테이크 아웃 2,000원 할인",
+            "cnt":5,
+            "date":"2023.05.30",
+            "couponpassword":"22"
+        },
+        {
+            "idx":5,
+            "category":"양식",
+            "title":"함박식당",
+            "eventType":"점심 식사 이벤트(11:00~14:00)",
+            "image":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMjJfMjUz%2FMDAxNjc0MzU0NDQ5Mjg0.GcFPB900GT-nKelZboDK3WURWy4AiUcuGYYuc5n54Xkg.84gYQAyrtf7pV5UXadVHYSNGpl6OlUEFQurw6zzJfMYg.JPEG.tjsgml46311%2F86B99ADD-DC17-4E2D-8F28-4A184C698C03.jpeg&type=sc960_832",
+            "desc":"1만원 이상 주문시 2000원 할인",
+            "cnt":5,
+            "date":"2023.05.30",
+            "couponpassword":"18"
+        },
+        {
+            "idx":6,
+            "category":"디저트",
+            "title":"오늘도 다온치즈",
+            "eventType":"쿠폰 이벤트",
+            "image":"https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210818_126%2F16292540495392gy3S_JPEG%2Fimage.jpg",
+            "desc":"1만원 이상 주문시 1000원 할인",
+            "cnt":5,
+            "date":"2023.05.30",
+            "couponpassword":"128"
+        },
+        {
+            "idx":7,
+            "category":"양식",
+            "title":"클로셰",
+            "eventType":"점심 식사 이벤트(11:00~14:00)",
+            "image":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA0MjZfMjQ5%2FMDAxNjgyNDY4NDEwMTgw.nVyxMNrTMYrsbPIWo2ObcS2w0I5v44DvHqzXjd_NV1Mg.1urxbjG0255_JcWiDA2AxjsYNlBWl2o81tUPi54KsdYg.JPEG.lu_hada%2F20230413_203650.jpg",
+            "desc":"2만원 이상 구매시 3000원 할인",
+            "cnt":7,
+            "date":"2023.06.30",
+            "couponpassword":"127"
+        },
+        {
+            "idx":8,
+            "category":"한식",
+            "title":"만나분식",
+            "eventType":"쿠폰 이벤트",
+            "image":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMjdfMzkg%2FMDAxNjc0ODA2MDQzNjc1.vjZVtUkPCj4xSfamZtl9qyXhvdOCNiKIzVzaI39stVsg.-dHYtsO1MXf2g3iZNKTI4HZigKAHaJUav_y0QRU_VqQg.JPEG.gsyh1101%2F20230120%25A3%25DF144848.jpg",
+            "desc":"2만원 이상 구매시 2000원 할인",
+            "cnt":7,
+            "date":"2023.06.30",
+            "couponpassword":"121"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "BapSangCoupon",
+    "slug": "BapSangCoupon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": ".//assets/한식.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "icon": "./assets/한식.png"
+
+    
+    
+  }
+}
